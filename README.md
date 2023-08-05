@@ -3,6 +3,14 @@
 docker on window & wsl & ubuntu
 
 
+## Key points of demand
+- use a linux os ubuntu on window (that is to say: use docker client on ubuntu/window)
+- use docker server on ubuntu
+- set docker registry-mirrors in china
+- set docker insecure-registries
+- set docker remote api
+
+
 ## usage
 ```bash
 # only download index.sh file
